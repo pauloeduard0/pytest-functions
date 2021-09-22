@@ -1,7 +1,7 @@
 import unittest
 import requests
 import mock
-from star_wars.starwars_api import StarWarsGatewaySWAPI
+from star_wars_api.starwars_api import StarWarsGatewaySWAPI
 
 
 class StarWarsGatewaySWAPITests(unittest.TestCase):
