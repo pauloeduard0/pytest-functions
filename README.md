@@ -17,7 +17,7 @@ IDE Pycharm ou não
 
 ### 🔧 Instalação
 
-Devemos instalar a biblioteca Request, Mock e Pytest para rodarmos o Pytest para realizarmos os testes:
+Devemos instalar a biblioteca Request, Mock e Pytest para realizarmos os testes:
 Existentes também em requirements.txt
 
 ```
