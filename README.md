@@ -1,4 +1,4 @@
-# Funções para Pytest e Design Patterns ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pauloeduard0/pytest-functions/Python%20application)
+# Funções para Pytest e Design Patterns - Singleton ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pauloeduard0/pytest-functions/Python%20application)
 
 Exercise 1 e 2 C214-L2
 
@@ -17,7 +17,7 @@ IDE Pycharm ou não
 
 ### 🔧 Instalação
 
-Devemos instalar a biblioteca Pandas para criarmos um Data Frame e Pytest para realizarmos os testes:
+Devemos instalar a biblioteca Request, Mock e Pytest para rodarmos o Pytest para realizarmos os testes:
 Existentes também em requirements.txt
 
 ```
@@ -28,7 +28,7 @@ pip install mock
 
 ## Rodando a interface
 
-Para rodarmos a interface devemos abrir o arquivo Start.py e dar play para iniciar os padrões de Design Patterns, onde visualizaremos os resultados.
+Para rodarmos a interface devemos abrir o arquivo Start.py e dar play para iniciar os padrões de Design Patterns Singleton, onde visualizaremos os resultados.
 
 ## ⚙️ Executando os testes
 
